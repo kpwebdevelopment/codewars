@@ -29,7 +29,7 @@ Each folder or file is named after the challenge title and includes:
 ## 📈 Progress
 
 - Total Challenges Completed: **X**
-- Rank: **5 kyu**
+- Rank: **8 kyu**
 - [![Codewars](https://www.codewars.com/users/your-codewars-username/badges/large)](https://www.codewars.com/users/your-codewars-username)
 
 ---
